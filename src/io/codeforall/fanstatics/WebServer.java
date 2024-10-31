@@ -4,7 +4,7 @@ public class WebServer {
 
     public static void main(String[] args) {
 
-        Server server = new Server(8080);
+        Server server = new Server(10000);
 
         server.run();
 
