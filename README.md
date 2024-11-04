@@ -1,2 +1,3 @@
-# chat-server
-A simple chat server originally made as an exercise
+# Summary
+
+A Java-based chat server allowing users to connect via custom client programs to join chatrooms and interact with friends. The server supports multiple features, including private messaging, username changes, text color customization, and the ability to view all users’ online/offline status and IP addresses. It identifies returning users based on prior network login, providing a personalized experience. A multithreading approach ensures efficient handling of simultaneous connections, maintaining performance across users. Limited to terminal interaction, the server still enables rich functionality, including listing commands via a help menu. This flexibility allows users to create custom clients that connect seamlessly to the server for interaction.
