@@ -16,4 +16,9 @@
 </ul></p>
 
 # How to run
-<p>Run the ChatServer.jar file inside out/artifacts/ and your server should be running on port 10000.<br>If you want to use the server immediately simply connect to it using Netcat.<br>Any custom client you wish to develop should follow Netcat's core behaviours.</p>
+<p><b>It is required you have an updated version of Java installed.</b></p>
+<ol>
+  <li>Either clone the project or download the .jar file located in out/artifacts/ChatServer_jar</li>
+  <li>Run ChatServer.jar</li>
+</ol>
+<p>Your server should now be running on port 10000.</p>
